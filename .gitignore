@@ -8,3 +8,7 @@ fan_control/production/
 ublox_dan_usb_dongle/production/
 
 ublox_dan_usb_dongle/ublox_dan_usb_dongle-backups/
+
+EBYTE-E28-2G4M27S-breakout/e28-backups/
+
+*.bak
