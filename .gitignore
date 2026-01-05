@@ -10,3 +10,13 @@ ublox_dan_usb_dongle/production/
 ublox_dan_usb_dongle/ublox_dan_usb_dongle-backups/
 
 fpv_rx/fpv_rx-backups/
+
+EBYTE-E28-2G4M27S-breakout/e28-backups/
+
+*.bak
+
+18350 holder/18350 holder-backups/
+
+adl5606-breakout/adl5606-breakout-backups/
+
+ws2812-matrix/ws2812-matrix-backups/

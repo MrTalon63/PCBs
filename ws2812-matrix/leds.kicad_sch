@@ -1,0 +1,256 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "170b57e8-7471-4dd4-9d1f-ae6dd47651dd")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 151.13 64.77) (xy 156.21 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "679235f0-7342-4d38-b7bc-7e7d3387cf6f")
+	)
+	(wire
+		(pts
+			(xy 100.33 64.77) (xy 105.41 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6e180a6-3dee-401c-9ae2-cd4f373099ba")
+	)
+	(wire
+		(pts
+			(xy 125.73 64.77) (xy 130.81 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c00f6b07-0a2a-4aa9-be84-fe4beec21c13")
+	)
+	(wire
+		(pts
+			(xy 181.61 64.77) (xy 177.8 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc7763a8-f57f-4453-b21e-457a98801af0")
+	)
+	(hierarchical_label "D_IN"
+		(shape input)
+		(at 100.33 64.77 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e6ce4820-c3eb-41c3-afde-8008784740cf")
+	)
+	(hierarchical_label "D_OUT"
+		(shape input)
+		(at 181.61 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fa4c0c6d-e217-4703-a706-053bd6413013")
+	)
+	(sheet
+		(at 156.21 60.96)
+		(size 21.59 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "16d74144-3645-47c1-8a5e-1320178e0837")
+		(property "Sheetname" "9-12"
+			(at 156.21 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "9-12.kicad_sch"
+			(at 156.21 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "D_IN" input
+			(at 156.21 64.77 180)
+			(uuid "e94cab9b-61e5-40b1-8b29-633590e32711")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D_OUT" input
+			(at 177.8 64.77 0)
+			(uuid "49fa88e2-0595-4b0d-ac92-392bb2df8332")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "ws2812-matrix"
+				(path "/6f3f4de5-efdd-4711-a702-77d5ad3eae24/3ec5b1cd-8360-4927-847f-aff96288f2bb"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 105.41 60.96)
+		(size 20.32 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1930c254-c097-47a5-a38e-d6d1b644e8bc")
+		(property "Sheetname" "1-4"
+			(at 105.41 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "1-4.kicad_sch"
+			(at 105.41 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "D_IN" input
+			(at 105.41 64.77 180)
+			(uuid "d105e6a8-deac-423a-b003-1f5d2c3f15d9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D_OUT" input
+			(at 125.73 64.77 0)
+			(uuid "6728ee80-30db-42a3-b7cb-aac66b3478cd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "ws2812-matrix"
+				(path "/6f3f4de5-efdd-4711-a702-77d5ad3eae24/3ec5b1cd-8360-4927-847f-aff96288f2bb"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 130.81 60.96)
+		(size 20.32 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "93f518b1-4eb9-45db-a9a6-8ee83923f48a")
+		(property "Sheetname" "5-8"
+			(at 130.81 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "5-8.kicad_sch"
+			(at 130.81 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "D_IN" input
+			(at 130.81 64.77 180)
+			(uuid "3346f762-95d0-442a-8f95-057aa26d4ff2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "D_OUT" input
+			(at 151.13 64.77 0)
+			(uuid "a535b6b9-020b-43b9-bec3-6e3ed1374011")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "ws2812-matrix"
+				(path "/6f3f4de5-efdd-4711-a702-77d5ad3eae24/3ec5b1cd-8360-4927-847f-aff96288f2bb"
+					(page "4")
+				)
+			)
+		)
+	)
+)
