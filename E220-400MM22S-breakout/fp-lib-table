@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "E07-400MM10S")(type "Altium Designer")(uri "${KIPRJMOD}/E07-400MM10S.PcbLib")(options "")(descr ""))
+)
