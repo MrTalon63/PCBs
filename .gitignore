@@ -15,6 +15,7 @@ EBYTE-E28-2G4M27S-breakout/e28-backups/
 
 *.bak
 
+<<<<<<< Updated upstream
 18350 holder/18350 holder-backups/
 
 adl5606-breakout/adl5606-breakout-backups/
@@ -24,3 +25,27 @@ ws2812-matrix/ws2812-matrix-backups/
 universal-filter-board/universal-filter-board-backups/
 
 universal-filter-board/production/
+=======
+sx1255-breakout/production/backups/
+
+sx1255-breakout/production/
+
+sx1255-breakout/sx1255-breakout-backups/
+
+max2750-breakout/max2750-breakout-backups/
+>>>>>>> Stashed changes
+
+E220-400MM22S-breakout/E220-400MM22S-breakout-backups/
+
+E220-400MM22S-breakout/production/
+<<<<<<< Updated upstream
+
+sx1255-breakout/production/backups/
+
+max2750-breakout/max2750-breakout-backups/
+
+sx1255-breakout/sx1255-breakout-backups/
+
+sx1255-breakout/production/
+=======
+>>>>>>> Stashed changes
