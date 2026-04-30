@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ad9740")(type "KiCad")(uri "${KIPRJMOD}/ad9740.kicad_sym")(options "")(descr ""))
+  (lib (name "tx_dac")(type "KiCad")(uri "${KIPRJMOD}/tx_dac.kicad_sym")(options "")(descr ""))
+)
