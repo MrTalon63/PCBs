@@ -75,3 +75,7 @@ bpsk-modulator/production/backups/
 esp32s3wroom-devboard/esp32s3wroom-devboard-backups/
 
 DF782-breakout/DF782-breakout-backups/
+
+rocktrack/rocktrack-backups/
+
+ublox_max_breakout/ublox_max_breakout-backups/
