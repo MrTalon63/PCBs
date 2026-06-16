@@ -57,3 +57,21 @@ iq-modulator/ad9740-breakout/ad9740-breakout-backups/
 psk-modulator/psk-modulator-backups/
 
 bpsk-modulator/bpsk-modulator-backups/
+
+pha-202\+_amplifier/pha-202\+_amplifier-backups/
+
+pha-202\+_amplifier/production/
+
+STM32G030F6P6-devboard/production/backups/
+
+STM32G030F6P6-devboard/production/
+
+STM32G030F6P6-devboard/STM32G030F6P6-devboard-backups/
+
+ublox_max_breakout/production/
+
+bpsk-modulator/production/backups/
+
+esp32s3wroom-devboard/esp32s3wroom-devboard-backups/
+
+DF782-breakout/DF782-breakout-backups/

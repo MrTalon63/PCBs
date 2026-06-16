@@ -1,4 +1,4 @@
-27517060787651316
+27508169701115249
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96263,27 +96263,6 @@ PCB antenna
 0
 20
 1
-RF_Components
-Ebyte MM series
-
-
-0
-20
-20
-RF_Components
-JA4220
-
-
-0
-6
-4
-RF_Components
-WA8514-AE
-
-
-0
-2
-2
 RF_Converter
 Anaren_0805_2012Metric-6
 https://cdn.anaren.com/product-documents/Xinger/DirectionalCouplers/DC4759J5020AHF/DC4759J5020AHF_DataSheet(Rev_E).pdf
@@ -99883,13 +99862,6 @@ Integrated Circuit
 33
 33
 SamacSys_Parts
-QFN50P800X800X100-57N-D
-56-Lead Lead Frame Chip Scale Package [LFCSP_VQ],+ Tray_
-Integrated Circuit
-0
-57
-57
-SamacSys_Parts
 QFP80P900X900X160-32N
 32-pin, 7 x 7mm_2020
 Integrated Circuit
@@ -99917,13 +99889,6 @@ Integrated Circuit
 0
 11
 11
-SamacSys_Parts
-SON127P600X490X100-9N-D
-DL1636 (Thickness 1.02mm)
-Integrated Circuit
-0
-9
-9
 SamacSys_Parts
 SOT65P210X110-6N
 NC7WZ07P6
