@@ -49,9 +49,11 @@
       "drc_exclusions",
       "locked_item_shadows",
       "conflict_shadows",
-      "shapes"
+      "shapes",
+      "board_outline_area",
+      "ly_points"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
+    "visible_layers": "ffffffff_ffffffff_fffffff7_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -61,7 +63,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "psk-modulator.kicad_prl",
+    "filename": "ice40up5k-breakout.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {

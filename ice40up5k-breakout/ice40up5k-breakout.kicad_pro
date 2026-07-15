@@ -449,7 +449,6 @@
       "footprint_filter": "ignore",
       "footprint_link_issues": "warning",
       "four_way_junction": "ignore",
-      "global_label_dangling": "warning",
       "ground_pin_not_ground": "warning",
       "hier_label_mismatch": "error",
       "isolated_pin_label": "warning",
@@ -489,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "psk-modulator.kicad_pro",
+    "filename": "ice40up5k-breakout.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -523,14 +522,10 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
       "idf": "",
       "netlist": "",
       "plot": "",
-      "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
-      "svg": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -641,33 +636,25 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
-    "space_save_all_events": true,
-    "spice_current_sheet_as_root": false,
-    "spice_external_command": "spice \"%I\"",
-    "spice_model_current_sheet_as_root": true,
-    "spice_save_all_currents": false,
-    "spice_save_all_dissipations": false,
-    "spice_save_all_voltages": false,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "psk-modulator.kicad_sch",
-        "name": "psk-modulator",
-        "uuid": "027e698f-f0fe-4a60-a63c-e5fd2756036b"
+        "filename": "ice40up5k-breakout.kicad_sch",
+        "name": "Root",
+        "uuid": "45389f4a-4554-468c-b185-50212b30dbba"
       }
     ],
-    "used_designators": "FB1,C14-15,R7-8,#PWR10-11",
+    "used_designators": "J2-3,#PWR43-51",
     "variants": []
   },
   "sheets": [
     [
-      "027e698f-f0fe-4a60-a63c-e5fd2756036b",
-      "psk-modulator"
+      "45389f4a-4554-468c-b185-50212b30dbba",
+      "Root"
     ]
   ],
   "text_variables": {},
