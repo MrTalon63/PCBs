@@ -79,3 +79,5 @@ DF782-breakout/DF782-breakout-backups/
 rocktrack/rocktrack-backups/
 
 ublox_max_breakout/ublox_max_breakout-backups/
+
+*.lck
