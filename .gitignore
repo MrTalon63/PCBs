@@ -81,3 +81,7 @@ rocktrack/rocktrack-backups/
 ublox_max_breakout/ublox_max_breakout-backups/
 
 *.lck
+
+grf5604_amp/grf5604_amp-backups/
+
+grf5604_amp/production/
