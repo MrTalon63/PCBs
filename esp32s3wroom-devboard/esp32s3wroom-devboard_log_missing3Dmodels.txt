@@ -1,0 +1,1 @@
+[('SW1', 'C:\\Git\\PCBs\\esp32s3wroom-devboard\\KLS7-TS6611.stp'), ('SW2', 'C:\\Git\\PCBs\\esp32s3wroom-devboard\\KLS7-TS6611.stp')]

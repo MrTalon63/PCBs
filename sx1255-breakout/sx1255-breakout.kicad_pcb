@@ -151,6 +151,7 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
+			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -2582,7 +2583,7 @@
 			(at -1.27 -2.77 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "631951a8-e60d-4be8-9a06-bee930b98104")
+			(uuid "901870ab-13ba-4b9f-89bc-ec56bdd35218")
 			(effects
 				(font
 					(size 1 1)
@@ -2593,7 +2594,7 @@
 		(property "Value" "Control"
 			(at -1.27 15.47 0)
 			(layer "F.Fab")
-			(uuid "0a25b37a-5693-4007-a60a-9f8a6b80e2f6")
+			(uuid "c757caba-06eb-47c5-b97e-9a68141bf9bf")
 			(effects
 				(font
 					(size 1 1)
@@ -2605,7 +2606,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1dcc911d-98be-4783-94dc-eb7fc8750215")
+			(uuid "5f8993bf-4ee1-444c-bdc0-6771519e8d42")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2617,7 +2618,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a6374867-c4a3-4f40-b051-c804d8411d4a")
+			(uuid "61574dc6-fc45-4c15-a8f1-62d6d4033efd")
 			(effects
 				(font
 					(size 1.27 1.27)

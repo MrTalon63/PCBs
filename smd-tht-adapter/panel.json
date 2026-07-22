@@ -1,0 +1,37 @@
+{
+    "layout": {
+        "hspace": "2mm",
+        "vspace": "2mm",
+        "rows": "16",
+        "cols": "8"
+    },
+    "source": {
+        "tolerance": "5mm"
+    },
+    "tabs": {
+        "type": "fixed",
+        "vwidth": "1.5mm",
+        "hwidth": "1.5mm",
+        "vcount": "0"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "drill": "0.3mm",
+        "spacing": "0.5mm",
+        "offset": "-0.2mm"
+    },
+    "framing": {
+        "type": "frame"
+    },
+    "tooling": {
+        "type": "4hole",
+        "hoffset": "2.5mm",
+        "voffset": "2.5mm"
+    },
+    "fiducials": {
+        "type": "3fid",
+        "hoffset": "7.5mm",
+        "voffset": "2.5mm",
+        "opening": "2mm"
+    }
+}

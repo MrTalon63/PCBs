@@ -1,0 +1,1 @@
+[('U1', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\RF_Mini-Circuits.3dshapes\\Mini-Circuits_TTT167.step')]

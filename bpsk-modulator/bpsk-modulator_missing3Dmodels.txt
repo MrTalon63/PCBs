@@ -1,0 +1,10 @@
+### Missing 3D models - created on 2026-05-17 03:51
+### Printed by checking_3D_models plugin
+Board file: C:\Git\PCBs\bpsk-modulator\bpsk-modulator.kicad_pcb
+3D missing models written to:
+C:\Git\PCBs\bpsk-modulator\bpsk-modulator_missing3Dmodels.txt
+-------
+('U1', 'C:\\Program Files\\KiCad\\9.0\\share\\kicad\\3dmodels\\RF_Mini-Circuits.3dshapes\\Mini-Circuits_TTT167.step')
+-------
+NUM of 3D missing models:1
+checked extensions ['.stp', '.step', '.stpZ']

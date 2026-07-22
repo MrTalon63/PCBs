@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ebyte")(type "KiCad")(uri "${KIPRJMOD}/ebyte.PcbLib")(options "")(descr ""))
+  (lib (name "ebyte07")(type "KiCad")(uri "${KIPRJMOD}/ebyte07.kicad_sym")(options "")(descr ""))
+)
